@@ -27,7 +27,7 @@ NerveSight plugs into the Tally installation a distributor already uses. Zero mi
 > *"Rajesh Wires has ₹4.1L overdue with zero payment history — stop credit. Three SKUs worth ₹3.2L haven't moved in 90 days — liquidate before month-end."*
 
 That's the product. No dashboards to configure. No training. One brief that changes every morning.
-
+![NerveSight Dashboard](docs/screenshot.png)
 ---
 
 ## Architecture
