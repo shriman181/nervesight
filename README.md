@@ -28,6 +28,8 @@ NerveSight plugs into the Tally installation a distributor already uses. Zero mi
 
 That's the product. No dashboards to configure. No training. One brief that changes every morning.
 ![NerveSight Dashboard](docs/screenshot.png)
+![NerveSight Customers Tab](docs/screenshot1.png)
+![NerveSight Inventory Tab](docs/screenshot2.png)
 ---
 
 ## Architecture
